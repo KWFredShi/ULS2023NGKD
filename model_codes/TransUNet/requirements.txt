@@ -1,0 +1,8 @@
+numpy
+tqdm
+tensorboard
+tensorboardX
+ml-collections
+medpy
+scipy
+h5py
