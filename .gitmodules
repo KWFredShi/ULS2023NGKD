@@ -1,0 +1,6 @@
+[submodule "model_codes/MedTrans/model_codes/MedTrans/Medical-Transformer"]
+	path = model_codes/MedTrans/model_codes/MedTrans/Medical-Transformer
+	url = https://github.com/jeya-maria-jose/Medical-Transformer.git
+[submodule "model_codes/MedTrans/Medical-Transformer"]
+	path = model_codes/MedTrans/Medical-Transformer
+	url = https://github.com/jeya-maria-jose/Medical-Transformer.git
